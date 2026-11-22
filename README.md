@@ -1,5 +1,7 @@
 # Intraday RTA Early-Warning Simulator
 
+![Python](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white) ![Erlang C](https://img.shields.io/badge/model-Erlang%20C-6f42c1) ![Real-time](https://img.shields.io/badge/focus-intraday%20%2F%20RTA-e36209) ![Data](https://img.shields.io/badge/data-simulated-lightgrey) ![License: MIT](https://img.shields.io/badge/license-MIT-green)
+
 **How much service level does catching a problem early actually save?**
 This project simulates one contact-centre day with a volume spike and unplanned absenteeism, then compares three ways a real-time / intraday team could respond.
 
@@ -57,5 +59,16 @@ python rta_early_warning.py
 
 Real-time monitoring · Intraday management · Erlang C · Alert rule design · Scenario analysis · Python
 
+
 ---
-Built by **Rahul**, Control Tower – WFM Analyst. [LinkedIn](https://www.linkedin.com/in/rahul-219543159/)
+
+## About me
+
+I'm Rahul, a Control Tower – WFM Analyst in Gurugram. I build these small projects to work through the planning problems I see on the job, using made-up data so nothing confidential leaves work. If you spot something I could do better, I'd like to hear it.
+
+[LinkedIn](https://www.linkedin.com/in/rahul-219543159/) · [GitHub profile](https://github.com/mail4rahulwork-sketch)
+
+**Other projects**
+- [Contact Centre WFM Dashboard (Power BI, live demo)](https://github.com/mail4rahulwork-sketch/powerbi-contact-centre-wfm-dashboard)
+- [WFM Forecast to Erlang C Staffing](https://github.com/mail4rahulwork-sketch/wfm-forecast-erlang-staffing)
+- [Headcount Capacity Plan](https://github.com/mail4rahulwork-sketch/contact-centre-headcount-capacity-plan)
